@@ -1,5 +1,5 @@
 
-name: Upload 
+name: Upload VPC
 
 on:
   push:
