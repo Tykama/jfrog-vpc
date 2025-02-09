@@ -1,5 +1,5 @@
 
-name: Upload VP
+name: Upload 
 
 on:
   push:
